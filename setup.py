@@ -29,7 +29,7 @@ setuptools.setup(
 		"numba",
 		"scikit-learn",
 		"scipy",
-		"bokeh",
+		"bokeh<3.0",
 		"h5py",
 		"pytest",
 		"tqdm",
